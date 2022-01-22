@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>  
