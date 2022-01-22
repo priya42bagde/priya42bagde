@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+</p>  
+<h2 align="center">Hi there 👋, I'm Shin!</h2>
+
 Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
@@ -18,9 +23,7 @@ Portfolio - For portfolio connect with me.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
 
-[![
-JavaScriptCodingInterviewQuestions](https://github-readme-stats.vercel.app/api/pin/?username=priya42bagde&repo=
-JavaScriptCodingInterviewQuestions&show_owner=true)](https://github.com/priya42bagde/repo-name)
+
 
 <!--
 **priya42bagde/priya42bagde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +38,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![
+JavaScriptCodingInterviewQuestions](https://github-readme-stats.vercel.app/api/pin/?username=priya42bagde&repo=
+JavaScriptCodingInterviewQuestions&show_owner=true)](https://github.com/priya42bagde/repo-name)
 -->
