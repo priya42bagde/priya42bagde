@@ -18,7 +18,8 @@ Portfolio - For portfolio connect with me.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=priya42bagde&repo=
+[![
+JavaScriptCodingInterviewQuestions](https://github-readme-stats.vercel.app/api/pin/?username=priya42bagde&repo=
 JavaScriptCodingInterviewQuestions&show_owner=true)](https://github.com/priya42bagde/repo-name)
 
 <!--
