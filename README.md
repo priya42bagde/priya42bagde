@@ -14,6 +14,12 @@ GitHub - https://github.com/priya42bagde
 YouTube - https://youtube.com/channel/UCK1_Op30_pZ1zBs9l3HNyBw
 Portfolio - For portfolio connect with me.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=priya42bagde&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=priya42bagde&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+
 <!--
 **priya42bagde/priya42bagde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
