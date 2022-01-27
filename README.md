@@ -12,7 +12,7 @@ Completed Bachelor of Engineer (BE-ECE) from LNCT, TOP college in Madhya Pradesh
 LinkedIn - https://www.linkedin.com/in/priya-bagde-04a40b115 <br/>
 GitHub - https://github.com/priya42bagde </br>
 YouTube - https://youtube.com/channel/UCK1_Op30_pZ1zBs9l3HNyBw <br/>
-Portfolio - For portfolio connect with me.
+Portfolio - For portfolio connect with me.  <br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=priya42bagde&theme=highcontrast&show_icons=true&count_private=true)
 
