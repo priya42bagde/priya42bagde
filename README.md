@@ -8,6 +8,7 @@ Also, I play a role as a Tech Panel 📈 at IBM apart from my existing role and 
 
 Completed Bachelor of Engineer (BE-ECE) from LNCT, TOP college in Madhya Pradesh but a delay in the offer letter, so meanwhile upscaling my skills & received an offer from another MNC (Accenture) where no one placed at Accenture from my college again it's an achievement for me to crack the OFF-CAMPUS in Delhi.
 
+
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 LinkedIn - https://www.linkedin.com/in/priya-bagde-04a40b115 <br/>
 GitHub - https://github.com/priya42bagde </br>
@@ -17,6 +18,8 @@ Portfolio - For portfolio connect with me.  <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=priya42bagde&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
+
+
 
 
 
