@@ -12,22 +12,17 @@ Completed Bachelor of Engineer (BE-ECE) from LNCT, TOP college in Madhya Pradesh
 
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
-<!--LinkedIn - https://www.linkedin.com/in/priya-bagde/ <br/> -->
+
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/priya-bagde/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="m-sehrawat" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+
+LinkedIn - https://www.linkedin.com/in/priya-bagde/ <br/> 
 GitHub - https://github.com/priya42bagde </br>
 YouTube - https://youtube.com/channel/UCK1_Op30_pZ1zBs9l3HNyBw <br/>
 Portfolio - For portfolio connect with me.  <br/>
 
-
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/priya-bagde/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="m-sehrawat" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href=" https://github.com/priya42bagde" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" alt="m-sehrawat" data-canonical-src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
-
 --------
-
-
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=priya42bagde&theme=highcontrast&show_icons=true&count_private=true)
 
