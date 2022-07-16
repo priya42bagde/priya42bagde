@@ -30,7 +30,13 @@ Portfolio - For portfolio connect with me.  <br/>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
 
 
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="priya42bagde" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&locale=en&theme=chartreuse-dark" alt="priya42bagde" width="410" /></p>
+<br><br><br><br><br>
+<hr>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
 <!--
