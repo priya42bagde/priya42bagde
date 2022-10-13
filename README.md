@@ -9,24 +9,6 @@ Also, I play a role as a Tech Panel 📈 at IBM apart from my existing role and 
 Completed Bachelor of Engineer (BE-ECE) from LNCT, TOP college in Madhya Pradesh but a delay in the offer letter, so meanwhile upscaling my skills & received an offer from another MNC (Accenture) where no one placed at Accenture from my college again it's an achievement for me to crack the OFF-CAMPUS in Delhi.
 
 
-#### My Current Stack
-<img height="48" src="img/react-original.svg" alt="react">
-<img height="48" src="img/git-original.svg" alt="git"> 
-<img height="48" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjavascript-1&psig=AOvVaw0JoNm0f7c4_dkk4AhoC49X&ust=1665745813151000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjlsu2I3foCFQAAAAAdAAAAABAF" alt="javascript"> 
-<img height="48" src="img/django-plain-wordmark.svg" alt="Django"> 
-<img height="48" src="img/postgresql-original.svg" alt="postgress"> 
-<img height="48" src="img/docker-original.svg" alt="Docker"> 
-<img height="48" src="img/linux-original.svg" alt="linux"> 
-<img height="48" src="img/nginx-original.svg" alt="nginx"> 
-<img height="48" src="img/pytest-original.svg" alt="pytest"> 
-
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcode.com/priya42bagde/" />
-</p>
-
-
-
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
