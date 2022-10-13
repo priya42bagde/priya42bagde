@@ -20,6 +20,10 @@ Completed Bachelor of Engineer (BE-ECE) from LNCT, TOP college in Madhya Pradesh
 <img height="48" src="img/nginx-original.svg" alt="nginx"> 
 <img height="48" src="img/pytest-original.svg" alt="pytest"> 
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcode.com/priya42bagde/" />
+</p>
 
 
 
