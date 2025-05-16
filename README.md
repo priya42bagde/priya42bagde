@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Priya!, Thanks for visisting at my profile!</h2>
+<h2 align="center">Hi there, I'm Priya!, Thanks for visiting at my profile!</h2>
 <h4 align="center">🚀 Frontend Developer | 8+ Years of Experience | React.js | Javascript  | Tech Panelist was@IBM & @ValueLabs </h4>
 
 
