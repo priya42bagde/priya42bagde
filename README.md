@@ -42,24 +42,26 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&theme=chartreuse-dark&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya42bagde&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya42bagde&show_icons=true&theme=chartreuse-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priya42bagde&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priya42bagde&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
