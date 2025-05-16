@@ -1,10 +1,8 @@
 <h2 align="center">Hi there, I'm Priya!, Thanks for visisting at my profile!</h2>
 <h4 align="center">🚀 Frontend Developer | 8+ Years of Experience | React.js | Javascript  | Tech Panelist was@IBM & @ValueLabs </h4>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+with+8%2B+Years+of+Experience;Crafting+Scalable+and+Modern+Web+Apps;Expert+in+React.js%2C+Redux%2C+JavaScript;Reusable+UI+Components+%7C+Hooks+%7C+SPA;Tech+Panelist+%40+IBM+%26+ValueLabs;Lifelong+Learner+%F0%9F%93%9A+and+Tech+Evangelist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=React.js+Developer+%7C+8%2B+Years+Experience;JavaScript+%7C+ES6%2B+%7C+DOM+Mastery;Responsive+Design+with+HTML5+%26+CSS3;Reusable+Components+%7C+Hooks+%7C+SPA+Expert;Pixel-perfect+UI+with+Flexbox+%26+Bootstrap;Passionate+about+Clean+%26+Performant+Code" alt="Typing SVG" />
 </p>
-
 ---
 ### 📬 Connect With Me
 
